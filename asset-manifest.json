@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-practice-project/static/css/main.e5fc9ca5.css",
+    "main.js": "/react-practice-project/static/js/main.52311e75.js",
+    "static/js/453.e14fae75.chunk.js": "/react-practice-project/static/js/453.e14fae75.chunk.js",
+    "static/media/card.png": "/react-practice-project/static/media/card.7b56fc5e8caa3887d3d7.png",
+    "static/media/pay.png": "/react-practice-project/static/media/pay.71732c1d4501fd246485.png",
+    "static/media/scan.png": "/react-practice-project/static/media/scan.8b50e5bbd3b11f3380a7.png",
+    "index.html": "/react-practice-project/index.html",
+    "main.e5fc9ca5.css.map": "/react-practice-project/static/css/main.e5fc9ca5.css.map",
+    "main.52311e75.js.map": "/react-practice-project/static/js/main.52311e75.js.map",
+    "453.e14fae75.chunk.js.map": "/react-practice-project/static/js/453.e14fae75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5fc9ca5.css",
+    "static/js/main.52311e75.js"
+  ]
+}
